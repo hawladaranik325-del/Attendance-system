@@ -228,6 +228,6 @@ This system can be used in:
 
 ## 👨‍💻 Developed By
 
-**Shubham**  
+**Anik Hawladar**  
 Diploma in Computer Science & Technology  
 2026
